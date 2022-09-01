@@ -1,5 +1,7 @@
 # ! /bin/python
 
+# our command will look like that:  python3 scanner.py <ip>
+
 import sys
 import socket
 from datetime import datetime
